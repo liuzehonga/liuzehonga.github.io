@@ -3,12 +3,12 @@ layout:     post
 title:      "Hello 2018"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2018-05-09 12:00:00
-author:     "Huxxxxxxxx"
+author:     "liuzehong"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - life
+    - 朗朗蓝色的
 ---
-sdfasdjflkasjdlkfjadslk
+刚学建博客，坑坑哇哇的太多了走了不少弯路
 
 
